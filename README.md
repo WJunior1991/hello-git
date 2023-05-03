@@ -1,2 +1,4 @@
 # hello-git
-Criando meu primeiro repositório dentro da GITHUB
+Criando meu primeiro repositories dentro da GITHUB
+
+## Senac São Miguel Paulista Washington Junior
